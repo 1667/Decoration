@@ -1,0 +1,6 @@
+pod 'Masonry', '~> 0.6.3'
+pod 'ZBarSDK', '~> 1.3.1'
+pod 'AFNetworking', '~> 2.5.4'
+pod 'SDWebImage', '~> 3.7.3'
+pod 'MBProgressHUD', '~> 0.9.1'
+pod 'MJRefresh', '~> 2.3.2'
